@@ -226,6 +226,10 @@ nav.navbar {
     padding: 0;
   }
 
+  .navbar.sticky .container{
+    padding: 0 20px;
+  }
+
   .navbar-toggler:focus {
     box-shadow: none;
   }
