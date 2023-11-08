@@ -232,7 +232,7 @@ nav.navbar {
 
   .navbar-nav {
     background: #0d354b;
-    padding: 20px 20px 50px;
+    padding: 20px 20px 110px !important;
   }
 
   .navbar.sticky .navbar-nav {
@@ -245,7 +245,9 @@ nav.navbar {
   }
 
   .register-btn {
-    padding-top: 10px;
+    position: relative;
+    margin-top: -105px;
+    padding: 0 20px;
   }
 }
 
